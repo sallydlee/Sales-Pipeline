@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<options>
+  <credential username="username" password="password" host = "127.0.0.1" dbname="online_sales" port = "3306" />
+    <insert_path path="/third_party_sales_1.csv" />
+</options>
